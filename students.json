@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Parth",
+    "roll_no": "101",
+    "total_days": 60,
+    "days_present": 54
+  },
+  {
+    "name": "Anisha",
+    "roll_no": "102",
+    "total_days": 60,
+    "days_present": 45
+  },
+  {
+    "name": "Komal",
+    "roll_no": "103",
+    "total_days": 60,
+    "days_present": 40
+  },
+  {
+    "name": "Durga",
+    "roll_no": "104",
+    "total_days": 60,
+    "days_present": 58
+  }
+]
